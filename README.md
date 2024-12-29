@@ -1,28 +1,19 @@
-# Hi there, I'm Anaijg 👋
+# Hi there, 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies.
+Welcome to my GitHub profile! 
 
-## About Me
-
-- 🔭 I’m currently working on [Your Project Name]
-- 🌱 I’m currently learning [Technology/Skill you are learning]
-- 👯 I’m looking to collaborate on [Projects or Technologies you are interested in collaborating on]
-- 🤔 I’m looking for help with [Topics you need help with]
-- 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 📫 How to reach me: ana.jimenezgomez@educa.madrid.org
 
 ## My Skills
 
-- **Programming Languages:** [List of languages you know]
-- **Frameworks and Libraries:** [List of frameworks and libraries you use]
-- **Tools and Platforms:** [List of tools and platforms you are familiar with]
+- **Programming Languages:** Java, Kotlin, SQL
+- **Frameworks and Libraries:** Jetpack Compose
+- **Tools and Platforms:** Android Studio, 
 
 ## My GitHub Stats
 
-![Anaijg's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaijg&show_icons=true&theme=radical)
-
+![Anaijg's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anaijg&show_icons=true&theme=radical])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaijg)](https://github.com/anaijg/github-readme-stats)
 ## Get in Touch
 
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
