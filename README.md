@@ -10,8 +10,10 @@ Welcome to my GitHub profile!
 
 ## My GitHub Stats
 
-[![Anaijg's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anaijg&show_icons=true&theme=radical])
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaijg)](https://github.com/anaijg/github-readme-stats)
+
+[![anaijg's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaijg)](https://github.com/anaijg/github-readme-stats&hide=issues,contribs&show_icons=true&theme=)
+
 ## Get in Touch
 
 <a href="https://www.linkedin.com/in/ana-isabel-jimenez-iesreyfernandovi-dam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
