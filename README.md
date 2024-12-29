@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## My Skills
 
-- **Programming Languages:** Java, Kotlin, SQL
+- **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), Kotlin, SQL, 
 - **Frameworks and Libraries:** Jetpack Compose
 - **Tools and Platforms:** Android Studio,  
 
