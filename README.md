@@ -16,8 +16,8 @@ Welcome to my GitHub profile!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaijg)](https://github.com/anaijg/github-readme-stats)
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
+- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/))
+- Twitter: 
 - Personal Website: [Your Website](https://yourwebsite.com)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
